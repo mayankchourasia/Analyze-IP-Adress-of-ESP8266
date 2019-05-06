@@ -3,7 +3,7 @@
     It sends a "hello" message, and then prints received data.
 */
 
-#include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h>   //standard liblary
 
 #ifndef STASSID
 #define STASSID "your-ssid"
