@@ -1,11 +1,8 @@
-/*
-    This sketch establishes a TCP connection to a "quote of the day" service.
-    It sends a "hello" message, and then prints received data.
-*/
+
 
 #include <ESP8266WiFi.h>   //standard liblary
 
-#ifndef STASSID
+#ifndef STASSID     //define
 #define STASSID "your-ssid"
 #define STAPSK  "your-password"
 #endif
@@ -17,7 +14,7 @@ const char* host = "djxmmx.net";
 const uint16_t port = 17;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(115200);     //baudrate
 
   // We start by connecting to a WiFi network
 
