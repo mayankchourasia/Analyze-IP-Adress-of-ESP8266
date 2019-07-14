@@ -9,3 +9,5 @@ Home automation
 Easy to attach switchboard for home automation will help us to control all the switches of the home from any place. You just need Google Assistant in
 your phone and the kit. Then you are good to go to save the electricity and your precious time. In the current scenarios we need to opt smart lights for the
 purpose. But this technology will surely solve the problem of not having costly smart appliances and can turn anything smart.
+Switching all the swtichboard of any room by attaching relay at switch, basically an adapter at every board. It would then be connected to the main wifi
+network with help of wifi module, providing it the internet access. It will be connected together for operating through your phone now. 
