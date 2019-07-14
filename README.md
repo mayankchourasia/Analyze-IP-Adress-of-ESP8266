@@ -11,3 +11,8 @@ your phone and the kit. Then you are good to go to save the electricity and your
 purpose. But this technology will surely solve the problem of not having costly smart appliances and can turn anything smart.
 Switching all the swtichboard of any room by attaching relay at switch, basically an adapter at every board. It would then be connected to the main wifi
 network with help of wifi module, providing it the internet access. It will be connected together for operating through your phone now. 
+After receiving the
+command, the respective relay would trigger and work for the required function. We would use wifi module ESP 8266 for internal signal connectivity.
+Arduino nano processor would be used and battery if needed.
+Relay for switching.
+3D printed cover as an adapter.
