@@ -4,3 +4,8 @@ ESP8266 WiFi Module
 ESP8266 is Wi-Fi enabled system on chip (SoC) module developed by Espressif system. It is mostly used for development of IoT (Internet of Things) embedded applications.
 
 Most people prefer to get ESP8266 IP address on serial monitor. But in many cases it is difficult to have serial connection always connected and having display for just to know ip address.
+
+Home automation
+Easy to attach switchboard for home automation will help us to control all the switches of the home from any place. You just need Google Assistant in
+your phone and the kit. Then you are good to go to save the electricity and your precious time. In the current scenarios we need to opt smart lights for the
+purpose. But this technology will surely solve the problem of not having costly smart appliances and can turn anything smart.
