@@ -15,4 +15,3 @@ After receiving the
 command, the respective relay would trigger and work for the required function. We would use wifi module ESP 8266 for internal signal connectivity.
 Arduino nano processor would be used and battery if needed.
 Relay for switching.
-3D printed cover as an adapter.
